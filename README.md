@@ -1,38 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Public Servant Salary Data API
 
-## Getting Started
+This API provides access to public servant salary data for various classifications and levels. The information is sourced from [TBS-SCT Canada](https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp) and is available through a set of endpoints. More classifications will be added to the API soon.
 
-First, run the development server:
+## Endpoints
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- `/api/data`: Returns the full JSON containing salary data for all classifications and levels.
+- `/api/top`: Returns the top salary level for each classification and level.
+- `/api/[classification-level]`: Returns the full salary information for a specific classification and level (e.g., `/api/cs-01`).
+- `/api/[classification-level]/[step-#]`: Returns the salary for the specified step of a classification and level (e.g., `/api/cr-1/step-3`).
+- `/api/[classification-level]/top`: Returns the top salary amount of the specified classification and level (e.g., `/api/as-4/top`).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+To use the API, send HTTP requests to the specified endpoints using your preferred method (e.g., cURL, Python requests, etc.).
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### Examples
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Retrieve full salary data:
+  ```shell
+  curl https://your-api-url/api/data
+  ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Get top salary levels:
+  ```shell
+  curl https://your-api-url/api/top
+  ```
 
-## Learn More
+- Get full salary info for a classification and level:
+  ```shell
+  curl https://your-api-url/api/cs-01
+  ```
 
-To learn more about Next.js, take a look at the following resources:
+- Get salary for a specific step:
+  ```shell
+  curl https://your-api-url/api/cr-1/step-3
+  ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Get top salary amount for a classification and level:
+  ```shell
+  curl https://your-api-url/api/as-4/top
+  ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Installation
 
-## Deploy on Vercel
+1. Clone the repository:
+   ```shell
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Install dependencies:
+   ```shell
+   npm install
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. Run the API:
+   ```shell
+   npm start
+   ```
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please submit an issue or a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to customize the placeholders (e.g., `your-api-url`, `your-username`, `your-repo-name`) and further elaborate on installation steps, deployment, and any other relevant information.
