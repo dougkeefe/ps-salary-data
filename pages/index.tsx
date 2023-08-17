@@ -87,6 +87,15 @@ export default function Home() {
         </section>
 
 
+        <section className="mb-8">
+          <h2 className="text-xl font-semibold mb-2">Current Classifications Available</h2>
+          <ul>
+            <li>AS</li>
+            <li>CM</li>
+            <li>CR</li>
+            <li>CS</li>
+          </ul>
+        </section>
 
         <section className="mb-8">
           <h2 className="text-xl font-semibold mb-2">Contributing</h2>
