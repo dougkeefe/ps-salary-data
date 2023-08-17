@@ -1696,5 +1696,1690 @@
                 "step-7": 95514
             }
         ]
-    }
+    },
+
+  "DA-CON-1": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 34851,
+        "step-2": 35826,
+        "step-3": 36811,
+        "step-4": 37796,
+        "step-5": 38785,
+        "step-6": 39762,
+        "step-7": 40736,
+        "step-8": 41717,
+        "step-9": 42704,
+        "step-10": 43690
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 35374,
+        "step-2": 36363,
+        "step-3": 37363,
+        "step-4": 38363,
+        "step-5": 39367,
+        "step-6": 40358,
+        "step-7": 41347,
+        "step-8": 42343,
+        "step-9": 43345,
+        "step-10": 44345
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 36612,
+        "step-2": 37636,
+        "step-3": 38671,
+        "step-4": 39706,
+        "step-5": 40745,
+        "step-6": 41771,
+        "step-7": 42794,
+        "step-8": 43825,
+        "step-9": 44862,
+        "step-10": 45897
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 37070,
+        "step-2": 38106,
+        "step-3": 39154,
+        "step-4": 40202,
+        "step-5": 41254,
+        "step-6": 42293,
+        "step-7": 43329,
+        "step-8": 44373,
+        "step-9": 45423,
+        "step-10": 46471
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 38182,
+        "step-2": 39249,
+        "step-3": 40329,
+        "step-4": 41408,
+        "step-5": 42492,
+        "step-6": 43562,
+        "step-7": 44629,
+        "step-8": 45704,
+        "step-9": 46786,
+        "step-10": 47865
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 38373,
+        "step-2": 39445,
+        "step-3": 40531,
+        "step-4": 41615,
+        "step-5": 42704,
+        "step-6": 43780,
+        "step-7": 44852,
+        "step-8": 45933,
+        "step-9": 47020,
+        "step-10": 48104
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 39140,
+        "step-2": 40234,
+        "step-3": 41342,
+        "step-4": 42447,
+        "step-5": 43558,
+        "step-6": 44656,
+        "step-7": 45749,
+        "step-8": 46852,
+        "step-9": 47960,
+        "step-10": 49066
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 39238,
+        "step-2": 40335,
+        "step-3": 41445,
+        "step-4": 42553,
+        "step-5": 43667,
+        "step-6": 44768,
+        "step-7": 45863,
+        "step-8": 46969,
+        "step-9": 48080,
+        "step-10": 49189
+      }
+    ]
+  },
+  "DA-CON-2": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 38280,
+        "step-2": 39363,
+        "step-3": 40450,
+        "step-4": 41536,
+        "step-5": 42636,
+        "step-6": 43761
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 38854,
+        "step-2": 39953,
+        "step-3": 41057,
+        "step-4": 42159,
+        "step-5": 43276,
+        "step-6": 44417
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 40214,
+        "step-2": 41351,
+        "step-3": 42494,
+        "step-4": 43635,
+        "step-5": 44791,
+        "step-6": 45972
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 40717,
+        "step-2": 41868,
+        "step-3": 43025,
+        "step-4": 44180,
+        "step-5": 45351,
+        "step-6": 46547
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 41939,
+        "step-2": 43124,
+        "step-3": 44316,
+        "step-4": 45505,
+        "step-5": 46712,
+        "step-6": 47943
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 42149,
+        "step-2": 43340,
+        "step-3": 44538,
+        "step-4": 45733,
+        "step-5": 46946,
+        "step-6": 48183
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 42992,
+        "step-2": 44207,
+        "step-3": 45429,
+        "step-4": 46648,
+        "step-5": 47885,
+        "step-6": 49147
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 43099,
+        "step-2": 44318,
+        "step-3": 45543,
+        "step-4": 46765,
+        "step-5": 48005,
+        "step-6": 49270
+      }
+    ]
+  },
+  "DA-CON-3": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 44983,
+        "step-2": 46244,
+        "step-3": 47506,
+        "step-4": 48767
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 45658,
+        "step-2": 46938,
+        "step-3": 48219,
+        "step-4": 49499
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 47256,
+        "step-2": 48581,
+        "step-3": 49907,
+        "step-4": 51231
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 47847,
+        "step-2": 49188,
+        "step-3": 50531,
+        "step-4": 51871
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 49282,
+        "step-2": 50664,
+        "step-3": 52047,
+        "step-4": 53427
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 49528,
+        "step-2": 50917,
+        "step-3": 52307,
+        "step-4": 53694
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 50519,
+        "step-2": 51935,
+        "step-3": 53353,
+        "step-4": 54768
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 50645,
+        "step-2": 52065,
+        "step-3": 53486,
+        "step-4": 54905
+      }
+    ]
+  },
+  "DA-CON-4": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 56594,
+        "step-2": 57978,
+        "step-3": 59383,
+        "step-4": 60777
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 57443,
+        "step-2": 58848,
+        "step-3": 60274,
+        "step-4": 61689
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 59454,
+        "step-2": 60908,
+        "step-3": 62384,
+        "step-4": 63848
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 60197,
+        "step-2": 61669,
+        "step-3": 63164,
+        "step-4": 64646
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 62003,
+        "step-2": 63519,
+        "step-3": 65059,
+        "step-4": 66585
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 62313,
+        "step-2": 63837,
+        "step-3": 65384,
+        "step-4": 66918
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 63559,
+        "step-2": 65114,
+        "step-3": 66692,
+        "step-4": 68256
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 63718,
+        "step-2": 65277,
+        "step-3": 66859,
+        "step-4": 68427
+      }
+    ]
+  },
+  "DA-CON-5": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 60036,
+        "step-2": 61570,
+        "step-3": 63104,
+        "step-4": 64638
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 60937,
+        "step-2": 62494,
+        "step-3": 64051,
+        "step-4": 65608
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 63070,
+        "step-2": 64681,
+        "step-3": 66292,
+        "step-4": 67903
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 63858,
+        "step-2": 65490,
+        "step-3": 67122,
+        "step-4": 68754
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 65774,
+        "step-2": 67455,
+        "step-3": 69136,
+        "step-4": 70817
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 66103,
+        "step-2": 67792,
+        "step-3": 69480,
+        "step-4": 71168
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 67425,
+        "step-2": 69148,
+        "step-3": 70870,
+        "step-4": 72592
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 67594,
+        "step-2": 69321,
+        "step-3": 71047,
+        "step-4": 72773
+      }
+    ]
+  },
+  "DA-CON-6": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 62632,
+        "step-2": 64327,
+        "step-3": 66009,
+        "step-4": 67695
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 63571,
+        "step-2": 65292,
+        "step-3": 66999,
+        "step-4": 68710
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 65796,
+        "step-2": 67577,
+        "step-3": 69344,
+        "step-4": 71115
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 66618,
+        "step-2": 68422,
+        "step-3": 70211,
+        "step-4": 72004
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 68617,
+        "step-2": 70475,
+        "step-3": 72317,
+        "step-4": 74164
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 68960,
+        "step-2": 70827,
+        "step-3": 72679,
+        "step-4": 74535
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 70339,
+        "step-2": 72244,
+        "step-3": 74133,
+        "step-4": 76026
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 70515,
+        "step-2": 72425,
+        "step-3": 74318,
+        "step-4": 76216
+      }
+    ]
+  },
+  "DA-CON-7": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 71042,
+        "step-2": 72904,
+        "step-3": 74765,
+        "step-4": 76634
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 72108,
+        "step-2": 73998,
+        "step-3": 75886,
+        "step-4": 77784
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 74632,
+        "step-2": 76588,
+        "step-3": 78542,
+        "step-4": 80506
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 75565,
+        "step-2": 77545,
+        "step-3": 79524,
+        "step-4": 81512
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 77832,
+        "step-2": 79871,
+        "step-3": 81910,
+        "step-4": 83957
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 78221,
+        "step-2": 80270,
+        "step-3": 82320,
+        "step-4": 84377
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 79785,
+        "step-2": 81875,
+        "step-3": 83966,
+        "step-4": 86065
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 79984,
+        "step-2": 82080,
+        "step-3": 84176,
+        "step-4": 86280
+      }
+    ]
+  },
+  "DA-CON-8": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 74681,
+        "step-2": 76740,
+        "step-3": 78788,
+        "step-4": 80859
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 75801,
+        "step-2": 77891,
+        "step-3": 79970,
+        "step-4": 82072
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 78454,
+        "step-2": 80617,
+        "step-3": 82769,
+        "step-4": 84945
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 79435,
+        "step-2": 81625,
+        "step-3": 83804,
+        "step-4": 86007
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 81818,
+        "step-2": 84074,
+        "step-3": 86318,
+        "step-4": 88587
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 82227,
+        "step-2": 84494,
+        "step-3": 86750,
+        "step-4": 89030
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 83872,
+        "step-2": 86184,
+        "step-3": 88485,
+        "step-4": 90811
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 84082,
+        "step-2": 86399,
+        "step-3": 88706,
+        "step-4": 91038
+      }
+    ]
+  },
+  "DA-PRO-1": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 29570,
+        "step-2": 30535,
+        "step-3": 31520,
+        "step-4": 32516,
+        "step-5": 33485,
+        "step-6": 34464,
+        "step-7": 35431,
+        "step-8": 36587,
+        "step-9": 37738,
+        "step-10": 38827,
+        "step-11": 39928,
+        "step-12": 41061
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 30014,
+        "step-2": 30993,
+        "step-3": 31993,
+        "step-4": 33004,
+        "step-5": 33987,
+        "step-6": 34981,
+        "step-7": 35962,
+        "step-8": 37136,
+        "step-9": 38304,
+        "step-10": 39409,
+        "step-11": 40527,
+        "step-12": 41677
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 31064,
+        "step-2": 32078,
+        "step-3": 33113,
+        "step-4": 34159,
+        "step-5": 35177,
+        "step-6": 36205,
+        "step-7": 37221,
+        "step-8": 38436,
+        "step-9": 39645,
+        "step-10": 40788,
+        "step-11": 41945,
+        "step-12": 43136
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 31452,
+        "step-2": 32479,
+        "step-3": 33527,
+        "step-4": 34586,
+        "step-5": 35617,
+        "step-6": 36658,
+        "step-7": 37686,
+        "step-8": 38916,
+        "step-9": 40141,
+        "step-10": 41298,
+        "step-11": 42469,
+        "step-12": 43675
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 32396,
+        "step-2": 33453,
+        "step-3": 34533,
+        "step-4": 35724,
+        "step-5": 36686,
+        "step-6": 37758,
+        "step-7": 38817,
+        "step-8": 40083,
+        "step-9": 41345,
+        "step-10": 42537,
+        "step-11": 43743,
+        "step-12": 44985
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 32558,
+        "step-2": 33620,
+        "step-3": 34696,
+        "step-4": 35869,
+        "step-5": 36869,
+        "step-6": 37947,
+        "step-7": 39011,
+        "step-8": 40283,
+        "step-9": 41552,
+        "step-10": 42750,
+        "step-11": 43962,
+        "step-12": 45210
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 33209,
+        "step-2": 34292,
+        "step-3": 35400,
+        "step-4": 36518,
+        "step-5": 37606,
+        "step-6": 38706,
+        "step-7": 39791,
+        "step-8": 41089,
+        "step-9": 42383,
+        "step-10": 43606,
+        "step-11": 44841,
+        "step-12": 46114
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 33292,
+        "step-2": 34378,
+        "step-3": 35489,
+        "step-4": 36609,
+        "step-5": 37700,
+        "step-6": 38803,
+        "step-7": 39890,
+        "step-8": 41192,
+        "step-9": 42489,
+        "step-10": 43716,
+        "step-11": 44954,
+        "step-12": 46229
+      }
+    ]
+  },
+  "DA-PRO-2": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 42890,
+        "step-2": 44185,
+        "step-3": 45473
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 43533,
+        "step-2": 44848,
+        "step-3": 46155
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 45057,
+        "step-2": 46418,
+        "step-3": 47770
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 45452,
+        "step-2": 46802,
+        "step-3": 48167
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 46989,
+        "step-2": 48408,
+        "step-3": 49818
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 47224,
+        "step-2": 48650,
+        "step-3": 50067
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 48209,
+        "step-2": 49623,
+        "step-3": 51068
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 48288,
+        "step-2": 49706,
+        "step-3": 51154
+      }
+    ]
+  },
+  "DA-PRO-3": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 47991,
+        "step-2": 49454,
+        "step-3": 50902
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 48611,
+        "step-2": 50196,
+        "step-3": 51666
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 50216,
+        "step-2": 51853,
+        "step-3": 53374
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 50646,
+        "step-2": 52298,
+        "step-3": 53831
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 52577,
+        "step-2": 54309,
+        "step-3": 55866
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 52840,
+        "step-2": 54580,
+        "step-3": 56145
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 53519,
+        "step-2": 55265,
+        "step-3": 56835
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 53645,
+        "step-2": 55392,
+        "step-3": 56966
+      }
+    ]
+  },
+  "DA-PRO-4": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 53938,
+        "step-2": 55666,
+        "step-3": 57379
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 54666,
+        "step-2": 56417,
+        "step-3": 58152
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 56437,
+        "step-2": 58239,
+        "step-3": 60025
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 56899,
+        "step-2": 58715,
+        "step-3": 60515
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 59038,
+        "step-2": 60926,
+        "step-3": 62797
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 59335,
+        "step-2": 61230,
+        "step-3": 63108
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 60036,
+        "step-2": 61938,
+        "step-3": 63823
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 60164,
+        "step-2": 62068,
+        "step-3": 63956
+      }
+    ]
+  },
+  "DA-PRO-5": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 60111,
+        "step-2": 62099,
+        "step-3": 64072
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 60920,
+        "step-2": 62931,
+        "step-3": 64926
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 62784,
+        "step-2": 64857,
+        "step-3": 66914
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 63295,
+        "step-2": 65382,
+        "step-3": 67453
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 65559,
+        "step-2": 67728,
+        "step-3": 69881
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 65882,
+        "step-2": 68058,
+        "step-3": 70218
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 66609,
+        "step-2": 68792,
+        "step-3": 70959
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 66741,
+        "step-2": 68927,
+        "step-3": 71097
+      }
+    ]
+  },
+  "DA-PRO-6": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 66511,
+        "step-2": 68758,
+        "step-3": 70988
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 67399,
+        "step-2": 69669,
+        "step-3": 71921
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 69367,
+        "step-2": 71700,
+        "step-3": 74015
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 69901,
+        "step-2": 72244,
+        "step-3": 74563
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 72329,
+        "step-2": 74748,
+        "step-3": 77140
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 72681,
+        "step-2": 75107,
+        "step-3": 77504
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 73460,
+        "step-2": 75800,
+        "step-3": 78214
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 73600,
+        "step-2": 75942,
+        "step-3": 78358
+      }
+    ]
+  },
+  "DA-PRO-7": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 72929,
+        "step-2": 75242,
+        "step-3": 77637
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 73876,
+        "step-2": 76213,
+        "step-3": 78633
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 75906,
+        "step-2": 78315,
+        "step-3": 80806
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 76517,
+        "step-2": 78936,
+        "step-3": 81430
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 79085,
+        "step-2": 81603,
+        "step-3": 84191
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 79453,
+        "step-2": 81986,
+        "step-3": 84581
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 80289,
+        "step-2": 82827,
+        "step-3": 85424
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 80436,
+        "step-2": 82984,
+        "step-3": 85529
+      }
+    ]
+  },
+
+  "IS-1": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 54878,
+        "step-2": 56965,
+        "step-3": 59129,
+        "step-4": 61379
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 55701,
+        "step-2": 57819,
+        "step-3": 60016,
+        "step-4": 62300
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 57651,
+        "step-2": 59843,
+        "step-3": 62117,
+        "step-4": 64481
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 58372,
+        "step-2": 60591,
+        "step-3": 62893,
+        "step-4": 65287
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 60123,
+        "step-2": 62409,
+        "step-3": 64780,
+        "step-4": 67246
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 60424,
+        "step-2": 62721,
+        "step-3": 65104,
+        "step-4": 67582
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 61632,
+        "step-2": 63975,
+        "step-3": 66406,
+        "step-4": 68934
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 61786,
+        "step-2": 64135,
+        "step-3": 66572,
+        "step-4": 69106
+      }
+    ]
+  },
+  "IS-2": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 61152,
+        "step-2": 63474,
+        "step-3": 65887
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 62069,
+        "step-2": 64426,
+        "step-3": 66875
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 64241,
+        "step-2": 66681,
+        "step-3": 69216
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 65044,
+        "step-2": 67515,
+        "step-3": 70081
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 66995,
+        "step-2": 69540,
+        "step-3": 72183
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 67330,
+        "step-2": 69888,
+        "step-3": 72544
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 68677,
+        "step-2": 71286,
+        "step-3": 73995
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 68849,
+        "step-2": 71464,
+        "step-3": 74180
+      }
+    ]
+  },
+  "IS-3": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 71599,
+        "step-2": 74319,
+        "step-3": 77368
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 72673,
+        "step-2": 75434,
+        "step-3": 78529
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 75217,
+        "step-2": 78074,
+        "step-3": 81278
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 76157,
+        "step-2": 79050,
+        "step-3": 82294
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 78442,
+        "step-2": 81422,
+        "step-3": 84763
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 78834,
+        "step-2": 81829,
+        "step-3": 85187
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 80411,
+        "step-2": 83466,
+        "step-3": 86891
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 80612,
+        "step-2": 83675,
+        "step-3": 87108
+      }
+    ]
+  },
+  "IS-4": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "$) June 21, 2020",
+        "step-1": 85476,
+        "step-2": 88724,
+        "step-3": 92412
+      },
+      {
+        "effective-date": "A) June 21, 2021",
+        "step-1": 86758,
+        "step-2": 90055,
+        "step-3": 93798
+      },
+      {
+        "effective-date": "B) June 21, 2022",
+        "step-1": 89795,
+        "step-2": 93207,
+        "step-3": 97081
+      },
+      {
+        "effective-date": "X) June 21, 2022 - Wage Adjustment",
+        "step-1": 90917,
+        "step-2": 94372,
+        "step-3": 98295
+      },
+      {
+        "effective-date": "C) June 21, 2023",
+        "step-1": 93645,
+        "step-2": 97203,
+        "step-3": 101244
+      },
+      {
+        "effective-date": "Y) June 21, 2023 - Pay Line Adjustment",
+        "step-1": 94113,
+        "step-2": 97689,
+        "step-3": 101750
+      },
+      {
+        "effective-date": "D) June 21, 2024",
+        "step-1": 95995,
+        "step-2": 99643,
+        "step-3": 103785
+      },
+      {
+        "effective-date": "Z) June 21, 2024 - Wage Adjustment",
+        "step-1": 96235,
+        "step-2": 99892,
+        "step-3": 104044
+      }
+    ]
+  },
+  "IS-5": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 95209,
+        "step-2": 98828,
+        "step-3": 102712
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 96637,
+        "step-2": 100310,
+        "step-3": 104253
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 100019,
+        "step-2": 103821,
+        "step-3": 107902
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 101269,
+        "step-2": 105119,
+        "step-3": 109251
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 104307,
+        "step-2": 108273,
+        "step-3": 112529
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 104829,
+        "step-2": 108814,
+        "step-3": 113092
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 106926,
+        "step-2": 110990,
+        "step-3": 115354
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 107193,
+        "step-2": 111267,
+        "step-3": 115642
+      }
+    ]
+  },
+  "IS-6": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "June 21, 2020",
+        "step-1": 100220,
+        "step-2": 104033,
+        "step-3": 107980,
+        "step-4": 111226,
+        "step-5": 114592
+      },
+      {
+        "effective-date": "June 21, 2021",
+        "step-1": 101723,
+        "step-2": 105593,
+        "step-3": 109600,
+        "step-4": 112894,
+        "step-5": 116311
+      },
+      {
+        "effective-date": "June 21, 2022",
+        "step-1": 105283,
+        "step-2": 109289,
+        "step-3": 113436,
+        "step-4": 116845,
+        "step-5": 120382
+      },
+      {
+        "effective-date": "June 21, 2022 - Wage Adjustment",
+        "step-1": 106599,
+        "step-2": 110655,
+        "step-3": 114854,
+        "step-4": 118306,
+        "step-5": 121887
+      },
+      {
+        "effective-date": "June 21, 2023",
+        "step-1": 109797,
+        "step-2": 113975,
+        "step-3": 118300,
+        "step-4": 121855,
+        "step-5": 125544
+      },
+      {
+        "effective-date": "June 21, 2023 - Pay Line Adjustment",
+        "step-1": 110346,
+        "step-2": 114545,
+        "step-3": 118892,
+        "step-4": 122464,
+        "step-5": 126172
+      },
+      {
+        "effective-date": "June 21, 2024",
+        "step-1": 112553,
+        "step-2": 116836,
+        "step-3": 121270,
+        "step-4": 124913,
+        "step-5": 128695
+      },
+      {
+        "effective-date": "June 21, 2024 - Wage Adjustment",
+        "step-1": 112834,
+        "step-2": 117128,
+        "step-3": 121573,
+        "step-4": 125225,
+        "step-5": 129017
+      }
+    ]
+  },
+  "OE-BEO-1": {
+    "annual-rates-of-pay": [
+        {
+            "effective-date": "June 21, 2020",
+            "step-1": 27841,
+            "step-2": 28712,
+            "step-3": 29570,
+            "step-4": 30423,
+            "step-5": 31285,
+            "step-6": 32150,
+            "step-7": 33015
+        },
+        {
+            "effective-date": "June 21, 2021",
+            "step-1": 28259,
+            "step-2": 29143,
+            "step-3": 30014,
+            "step-4": 30879,
+            "step-5": 31754,
+            "step-6": 32632,
+            "step-7": 33510
+        },
+        {
+            "effective-date": "June 21, 2022",
+            "step-1": 29248,
+            "step-2": 30163,
+            "step-3": 31064,
+            "step-4": 31960,
+            "step-5": 32865,
+            "step-6": 33774,
+            "step-7": 34683
+        },
+        {
+            "effective-date": "June 21, 2022 - Wage Adjustment",
+            "step-1": 29614,
+            "step-2": 30540,
+            "step-3": 31452,
+            "step-4": 32360,
+            "step-5": 33276,
+            "step-6": 34196,
+            "step-7": 35117
+        },
+        {
+            "effective-date": "June 21, 2023",
+            "step-1": 30502,
+            "step-2": 31456,
+            "step-3": 32396,
+            "step-4": 33331,
+            "step-5": 34274,
+            "step-6": 35222,
+            "step-7": 36171
+        },
+        {
+            "effective-date": "June 21, 2023 - Pay Line Adjustment",
+            "step-1": 30655,
+            "step-2": 31613,
+            "step-3": 32558,
+            "step-4": 33498,
+            "step-5": 34445,
+            "step-6": 35398,
+            "step-7": 36352
+        },
+        {
+            "effective-date": "June 21, 2024",
+            "step-1": 31268,
+            "step-2": 32245,
+            "step-3": 33209,
+            "step-4": 34168,
+            "step-5": 35134,
+            "step-6": 36106,
+            "step-7": 37079
+        },
+        {
+            "effective-date": "June 21, 2024 - Wage Adjustment",
+            "step-1": 31346,
+            "step-2": 32326,
+            "step-3": 33292,
+            "step-4": 34253,
+            "step-5": 35222,
+            "step-6": 36196,
+            "step-7": 37172
+        }
+    ]
+},
+"OE-BEO-2": {
+    "annual-rates-of-pay": [
+        {
+            "effective-date": "June 21, 2020",
+            "step-1": 34563,
+            "step-2": 35588,
+            "step-3": 36645,
+            "step-4": 37746,
+            "step-5": 38833
+        },
+        {
+            "effective-date": "June 21, 2021",
+            "step-1": 35081,
+            "step-2": 36122,
+            "step-3": 37195,
+            "step-4": 38312,
+            "step-5": 39415
+        },
+        {
+            "effective-date": "June 21, 2022",
+            "step-1": 36309,
+            "step-2": 37386,
+            "step-3": 38497,
+            "step-4": 39653,
+            "step-5": 40795
+        },
+        {
+            "effective-date": "June 21, 2022 - Wage Adjustment",
+            "step-1": 36763,
+            "step-2": 37853,
+            "step-3": 38978,
+            "step-4": 40149,
+            "step-5": 41305
+        },
+        {
+            "effective-date": "June 21, 2023",
+            "step-1": 37866,
+            "step-2": 38989,
+            "step-3": 40147,
+            "step-4": 41353,
+            "step-5": 42544
+        },
+        {
+            "effective-date": "June 21, 2023 - Pay Line Adjustment",
+            "step-1": 38055,
+            "step-2": 39184,
+            "step-3": 40348,
+            "step-4": 41560,
+            "step-5": 42757
+        },
+        {
+            "effective-date": "June 21, 2024",
+            "step-1": 38816,
+            "step-2": 39968,
+            "step-3": 41155,
+            "step-4": 42391,
+            "step-5": 43612
+        },
+        {
+            "effective-date": "June 21, 2024 - Wage Adjustment",
+            "step-1": 38913,
+            "step-2": 40068,
+            "step-3": 41258,
+            "step-4": 42497,
+            "step-5": 43721
+        }
+    ]
+},
+
+"OE-CEO-1": {
+    "annual-rates-of-pay": [
+        {
+            "effective-date": "June 21, 2020",
+            "step-1": 27841,
+            "step-2": 28712,
+            "step-3": 29570,
+            "step-4": 30423,
+            "step-5": 31285,
+            "step-6": 32150,
+            "step-7": 33015
+        },
+        {
+            "effective-date": "June 21, 2021",
+            "step-1": 28259,
+            "step-2": 29143,
+            "step-3": 30014,
+            "step-4": 30879,
+            "step-5": 31754,
+            "step-6": 32632,
+            "step-7": 33510
+        },
+        {
+            "effective-date": "June 21, 2022",
+            "step-1": 29248,
+            "step-2": 30163,
+            "step-3": 31064,
+            "step-4": 31960,
+            "step-5": 32865,
+            "step-6": 33774,
+            "step-7": 34683
+        },
+        {
+            "effective-date": "June 21, 2022 - Wage Adjustment",
+            "step-1": 29614,
+            "step-2": 30540,
+            "step-3": 31452,
+            "step-4": 32360,
+            "step-5": 33276,
+            "step-6": 34196,
+            "step-7": 35117
+        },
+        {
+            "effective-date": "June 21, 2023",
+            "step-1": 30502,
+            "step-2": 31456,
+            "step-3": 32396,
+            "step-4": 33331,
+            "step-5": 34274,
+            "step-6": 35222,
+            "step-7": 36171
+        },
+        {
+            "effective-date": "June 21, 2023 - Pay Line Adjustment",
+            "step-1": 30655,
+            "step-2": 31613,
+            "step-3": 32558,
+            "step-4": 33498,
+            "step-5": 34445,
+            "step-6": 35398,
+            "step-7": 36352
+        },
+        {
+            "effective-date": "June 21, 2024",
+            "step-1": 31268,
+            "step-2": 32245,
+            "step-3": 33209,
+            "step-4": 34168,
+            "step-5": 35134,
+            "step-6": 36106,
+            "step-7": 37079
+        },
+        {
+            "effective-date": "June 21, 2024 - Wage Adjustment",
+            "step-1": 31346,
+            "step-2": 32326,
+            "step-3": 33292,
+            "step-4": 34253,
+            "step-5": 35222,
+            "step-6": 36196,
+            "step-7": 37172
+        }
+    ]
+},
+"OE-CEO-2": {
+    "annual-rates-of-pay": [
+        {
+            "effective-date": "June 21, 2020",
+            "step-1": 34563,
+            "step-2": 35588,
+            "step-3": 36645,
+            "step-4": 37746,
+            "step-5": 38833
+        },
+        {
+            "effective-date": "June 21, 2021",
+            "step-1": 35081,
+            "step-2": 36122,
+            "step-3": 37195,
+            "step-4": 38312,
+            "step-5": 39415
+        },
+        {
+            "effective-date": "June 21, 2022",
+            "step-1": 36309,
+            "step-2": 37386,
+            "step-3": 38497,
+            "step-4": 39653,
+            "step-5": 40795
+        },
+        {
+            "effective-date": "June 21, 2022 - Wage Adjustment",
+            "step-1": 36763,
+            "step-2": 37853,
+            "step-3": 38978,
+            "step-4": 40149,
+            "step-5": 41305
+        },
+        {
+            "effective-date": "June 21, 2023",
+            "step-1": 37866,
+            "step-2": 38989,
+            "step-3": 40147,
+            "step-4": 41353,
+            "step-5": 42544
+        },
+        {
+            "effective-date": "June 21, 2023 - Pay Line Adjustment",
+            "step-1": 38055,
+            "step-2": 39184,
+            "step-3": 40348,
+            "step-4": 41560,
+            "step-5": 42757
+        },
+        {
+            "effective-date": "June 21, 2024",
+            "step-1": 38816,
+            "step-2": 39968,
+            "step-3": 41155,
+            "step-4": 42391,
+            "step-5": 43612
+        },
+        {
+            "effective-date": "June 21, 2024 - Wage Adjustment",
+            "step-1": 38913,
+            "step-2": 40068,
+            "step-3": 41258,
+            "step-4": 42497,
+            "step-5": 43721
+        }
+    ]
+},
+"OE-CEO-3": {
+    "annual-rates-of-pay": [
+        {
+            "effective-date": "June 21, 2020",
+            "step-1": 38535,
+            "step-2": 39709,
+            "step-3": 40899,
+            "step-4": 42099
+        },
+        {
+            "effective-date": "June 21, 2021",
+            "step-1": 39113,
+            "step-2": 40305,
+            "step-3": 41512,
+            "step-4": 42730
+        },
+        {
+            "effective-date": "June 21, 2022",
+            "step-1": 40482,
+            "step-2": 41716,
+            "step-3": 42965,
+            "step-4": 44226
+        },
+        {
+            "effective-date": "June 21, 2022 - Wage Adjustment",
+            "step-1": 40988,
+            "step-2": 42237,
+            "step-3": 43502,
+            "step-4": 44779
+        },
+        {
+            "effective-date": "June 21, 2023",
+            "step-1": 42218,
+            "step-2": 43504,
+            "step-3": 44807,
+            "step-4": 46122
+        },
+        {
+            "effective-date": "June 21, 2023 - Pay Line Adjustment",
+            "step-1": 42429,
+            "step-2": 43722,
+            "step-3": 45031,
+            "step-4": 46353
+        },
+        {
+            "effective-date": "June 21, 2024",
+            "step-1": 43278,
+            "step-2": 44596,
+            "step-3": 45932,
+            "step-4": 47280
+        },
+        {
+            "effective-date": "June 21, 2024 - Wage Adjustment",
+            "step-1": 43386,
+            "step-2": 44707,
+            "step-3": 46047,
+            "step-4": 47398
+        }
+    ]
+}
+
+
 }

@@ -68,7 +68,9 @@ To use the API, send HTTP requests to the specified endpoints using your preferr
 - CM
 - CR
 - CS
-
+- DA
+- IS
+- OE
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please submit an issue or a pull request.
