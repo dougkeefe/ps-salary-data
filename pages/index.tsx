@@ -91,10 +91,28 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">Current Classifications Available</h2>
           <ul>
             <li>AS</li>
+            <li>AU</li>
             <li>CM</li>
             <li>CR</li>
             <li>CS</li>
+            <li>DA-CON</li>
+            <li>DA-PRO</li>
+            <li>EC</li>
+            <li>IS</li>
+            <li>OE-BEO</li>
+            <li>OE-CEO</li>
+            <li>OE-DEO</li>
+            <li>OE-MEO</li>
+            <li>OE-MSE</li>
+            <li>PM</li>
+            <li>ST-COR</li>
+            <li>ST-OCE</li>
+            <li>ST-SCY</li>
+            <li>ST-STN</li>
+            <li>ST-TYP</li>
+            <li>WP</li>
           </ul>
+
         </section>
 
         <section className="mb-8">

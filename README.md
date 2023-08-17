@@ -65,12 +65,27 @@ To use the API, send HTTP requests to the specified endpoints using your preferr
 
 ## Current Classifications Available
 - AS
+- AU
 - CM
 - CR
 - CS
-- DA
+- DA-CON
+- DA-PRO
+- EC
 - IS
-- OE
+- OE-BEO
+- OE-CEO
+- OE-DEO
+- OE-MEO
+- OE-MSE
+- PM
+- ST-COR
+- ST-OCE
+- ST-SCY
+- ST-STN
+- ST-TYP
+- WP
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please submit an issue or a pull request.
@@ -78,7 +93,3 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the placeholders (e.g., `your-api-url`, `your-username`, `your-repo-name`) and further elaborate on installation steps, deployment, and any other relevant information.
