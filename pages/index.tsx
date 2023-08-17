@@ -19,6 +19,13 @@ export default function Home() {
           and is available through a set of endpoints. More classifications will be added to the API soon.
         </p>
 
+        <section className='mb-8'>
+          <h2 className="text-xl font-semibold mb-2">Important Disclaimer</h2>
+          <p>
+            This API and website are not affiliated with, endorsed, or sponsored by the Government of Canada.
+            The information provided is sourced from publicly available data and is provided for educational and informational purposes only.
+          </p>
+        </section>
         <section className="mb-8">
           <h2 className="text-xl font-semibold mb-2">Endpoints</h2>
           <ul className="list-disc pl-6">
@@ -59,7 +66,7 @@ export default function Home() {
           <div className="rounded-md p-4">
             <pre>
               <code>
-{`  # Retrieve full salary data
+                {`  # Retrieve full salary data
   curl https://ps-salary-data.vercel.app/api/data
 
   # Get top salary levels
@@ -106,6 +113,7 @@ export default function Home() {
         <p>    This API and website are not affiliated with, endorsed, or sponsored by the Government of Canada. <br />
           The information provided is sourced from publicly available data and is provided for educational and informational purposes only.
         </p>
+        <p className="mt-4">Author: Doug Keefe 2023</p>
       </footer>
     </main>
   );
