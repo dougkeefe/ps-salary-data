@@ -60,19 +60,19 @@ export default function Home() {
             <pre>
               <code>
 {`  # Retrieve full salary data
-  curl https://your-api-url/api/data
+  curl https://ps-salary-data.vercel.app/api/data
 
   # Get top salary levels
-  curl https://your-api-url/api/top
+  curl https://ps-salary-data.vercel.app/api/top
 
   # Get full salary info for a classification and level
-  curl https://your-api-url/api/cs-01
+  curl https://ps-salary-data.vercel.app/api/cs-01
 
   # Get salary for a specific step
-  curl https://your-api-url/api/cr-1/step-3
+  curl https://ps-salary-data.vercel.app/api/cr-1/step-3
 
   # Get top salary amount for a classification and level
-  curl https://your-api-url/api/as-4/top
+  curl https://ps-salary-data.vercel.app/api/as-4/top
 `}
               </code>
             </pre>
