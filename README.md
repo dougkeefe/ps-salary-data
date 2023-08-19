@@ -87,6 +87,7 @@ To use the API, send HTTP requests to the specified endpoints using your preferr
 - EDS
 - EG
 - ETP
+- EX
 - FB
 - FI
 - FO
@@ -111,11 +112,15 @@ To use the API, send HTTP requests to the specified endpoints using your preferr
 - OE-DEO
 - OE-MEO
 - OE-MSE
+- OM
 - PC
+- PE
 - PG
 - PH
 - PI
 - PM
+- PO-IMA
+- PO-TCO
 - PRS
 - PS
 - PY

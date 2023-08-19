@@ -26440,5 +26440,1063 @@
                 "step-19": 165100
             }
         ]
-    }
+    },
+    "EX-01": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "April 1, 2021",
+                "step-1": 121550,
+                "step-2": 142982
+            },
+            {
+                "effective-date": "April 1, 2022",
+                "step-1": 125804,
+                "step-2": 147986
+            },
+            {
+                "effective-date": "April 1, 2022 - Wage adjustment",
+                "step-1": 127377,
+                "step-2": 149836
+            },
+            {
+                "effective-date": "April 1, 2023",
+                "step-1": 131198,
+                "step-2": 154331
+            },
+            {
+                "effective-date": "April 1, 2023 - Pay line adjustment",
+                "step-1": 131854,
+                "step-2": 155103
+            },
+            {
+                "effective-date": "April 1, 2024",
+                "step-1": 134491,
+                "step-2": 158205
+            },
+            {
+                "effective-date": "April 1, 2024 - Wage adjustment",
+                "step-1": 134827,
+                "step-2": 158601
+            }
+        ]
+    },
+    "EX-IT-01": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "April 1, 2021",
+                "step-1": 121550,
+                "step-2": 150126
+            },
+            {
+                "effective-date": "April 1, 2022",
+                "step-1": 125804,
+                "step-2": 155380
+            },
+            {
+                "effective-date": "April 1, 2022 - Wage adjustment",
+                "step-1": 127377,
+                "step-2": 157322
+            },
+            {
+                "effective-date": "April 1, 2023",
+                "step-1": 131198,
+                "step-2": 162042
+            },
+            {
+                "effective-date": "April 1, 2023 - Pay line adjustment",
+                "step-1": 131854,
+                "step-2": 162852
+            },
+            {
+                "effective-date": "April 1, 2024",
+                "step-1": 134491,
+                "step-2": 166109
+            },
+            {
+                "effective-date": "April 1, 2024 - Wage adjustment",
+                "step-1": 134827,
+                "step-2": 166524
+            }
+        ]
+    },
+    "EX-02": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "April 1, 2021",
+                "step-1": 136270,
+                "step-2": 160299
+            },
+            {
+                "effective-date": "April 1, 2022",
+                "step-1": 141039,
+                "step-2": 165909
+            },
+            {
+                "effective-date": "April 1, 2022 - Wage adjustment",
+                "step-1": 142802,
+                "step-2": 167983
+            },
+            {
+                "effective-date": "April 1, 2023",
+                "step-1": 147087,
+                "step-2": 173023
+            },
+            {
+                "effective-date": "April 1, 2023 - Pay line adjustment",
+                "step-1": 147822,
+                "step-2": 173888
+            },
+            {
+                "effective-date": "April 1, 2024",
+                "step-1": 150778,
+                "step-2": 177366
+            },
+            {
+                "effective-date": "April 1, 2024 - Wage adjustment",
+                "step-1": 151155,
+                "step-2": 177809
+            }
+        ]
+    },
+    "EX-03": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "April 1, 2021",
+                "step-1": 152506,
+                "step-2": 179348
+            },
+            {
+                "effective-date": "April 1, 2022",
+                "step-1": 157844,
+                "step-2": 185625
+            },
+            {
+                "effective-date": "April 1, 2022 - Wage adjustment",
+                "step-1": 159817,
+                "step-2": 187945
+            },
+            {
+                "effective-date": "April 1, 2023",
+                "step-1": 164611,
+                "step-2": 193584
+            },
+            {
+                "effective-date": "April 1, 2023 - Pay line adjustment",
+                "step-1": 165434,
+                "step-2": 194552
+            },
+            {
+                "effective-date": "April 1, 2024",
+                "step-1": 168743,
+                "step-2": 198443
+            },
+            {
+                "effective-date": "April 1, 2024 - Wage adjustment",
+                "step-1": 169165,
+                "step-2": 198939
+            }
+        ]
+    },
+    "EX-04": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "April 1, 2021",
+                "step-1": 174802,
+                "step-2": 205650
+            },
+            {
+                "effective-date": "April 1, 2022",
+                "step-1": 180920,
+                "step-2": 212848
+            },
+            {
+                "effective-date": "April 1, 2022 - Wage adjustment",
+                "step-1": 183182,
+                "step-2": 215508
+            },
+            {
+                "effective-date": "April 1, 2023",
+                "step-1": 188677,
+                "step-2": 221974
+            },
+            {
+                "effective-date": "April 1, 2023 - Pay line adjustment",
+                "step-1": 189620,
+                "step-2": 223083
+            },
+            {
+                "effective-date": "April 1, 2024",
+                "step-1": 193413,
+                "step-2": 227545
+            },
+            {
+                "effective-date": "April 1, 2024 - Wage adjustment",
+                "step-1": 193896,
+                "step-2": 228114
+            }
+        ]
+    },
+    "EX-05": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "April 1, 2021",
+                "step-1": 195908,
+                "step-2": 230436
+            },
+            {
+                "effective-date": "April 1, 2022",
+                "step-1": 202765,
+                "step-2": 238501
+            },
+            {
+                "effective-date": "April 1, 2022 - Wage adjustment",
+                "step-1": 205299,
+                "step-2": 241483
+            },
+            {
+                "effective-date": "April 1, 2023",
+                "step-1": 211458,
+                "step-2": 248727
+            },
+            {
+                "effective-date": "April 1, 2023 - Pay line adjustment",
+                "step-1": 212516,
+                "step-2": 249971
+            },
+            {
+                "effective-date": "April 1, 2024",
+                "step-1": 216766,
+                "step-2": 254970
+            },
+            {
+                "effective-date": "April 1, 2024 - Wage adjustment",
+                "step-1": 217308,
+                "step-2": 255607
+            }
+        ]
+    },
+    "OM-01": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 40474,
+                "step-2": 42679,
+                "step-3": 44880,
+                "step-4": 47086,
+                "step-5": 49285,
+                "step-6": 51517,
+                "step-7": 53720,
+                "step-8": 55926
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 40798,
+                "step-2": 43020,
+                "step-3": 45239,
+                "step-4": 47463,
+                "step-5": 49679,
+                "step-6": 51929,
+                "step-7": 54150,
+                "step-8": 56373
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 41614,
+                "step-2": 43880,
+                "step-3": 46144,
+                "step-4": 48412,
+                "step-5": 50673,
+                "step-6": 52968,
+                "step-7": 55233,
+                "step-8": 57500
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 41697,
+                "step-2": 43968,
+                "step-3": 46236,
+                "step-4": 48509,
+                "step-5": 50774,
+                "step-6": 53074,
+                "step-7": 55343,
+                "step-8": 57615
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 42531,
+                "step-2": 44847,
+                "step-3": 47161,
+                "step-4": 49479,
+                "step-5": 51789,
+                "step-6": 54135,
+                "step-7": 56450,
+                "step-8": 58767
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 43169,
+                "step-2": 45520,
+                "step-3": 47868,
+                "step-4": 50221,
+                "step-5": 52566,
+                "step-6": 54947,
+                "step-7": 57297,
+                "step-8": 59649
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 43817,
+                "step-2": 46203,
+                "step-3": 48586,
+                "step-4": 50974,
+                "step-5": 53354,
+                "step-6": 55771,
+                "step-7": 58156,
+                "step-8": 60544
+            }
+        ]
+    },
+    "OM-02": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 56791,
+                "step-2": 59220,
+                "step-3": 61647,
+                "step-4": 64071
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 57245,
+                "step-2": 59694,
+                "step-3": 62140,
+                "step-4": 64584
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 58390,
+                "step-2": 60888,
+                "step-3": 63383,
+                "step-4": 65876
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 58507,
+                "step-2": 61010,
+                "step-3": 63510,
+                "step-4": 66008
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 59677,
+                "step-2": 62230,
+                "step-3": 64780,
+                "step-4": 67328
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 60572,
+                "step-2": 63163,
+                "step-3": 65752,
+                "step-4": 68338
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 61481,
+                "step-2": 64110,
+                "step-3": 66738,
+                "step-4": 69363
+            }
+        ]
+    },
+    "OM-03": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 61287,
+                "step-2": 64517,
+                "step-3": 67723,
+                "step-4": 70929,
+                "step-5": 74115
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 61777,
+                "step-2": 65033,
+                "step-3": 68265,
+                "step-4": 71496,
+                "step-5": 74708
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 63013,
+                "step-2": 66334,
+                "step-3": 69630,
+                "step-4": 72926,
+                "step-5": 76202
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 63139,
+                "step-2": 66467,
+                "step-3": 69769,
+                "step-4": 73072,
+                "step-5": 76354
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 64402,
+                "step-2": 67796,
+                "step-3": 71164,
+                "step-4": 74533,
+                "step-5": 77881
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 65368,
+                "step-2": 68813,
+                "step-3": 72231,
+                "step-4": 75651,
+                "step-5": 79049
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 66349,
+                "step-2": 69845,
+                "step-3": 73314,
+                "step-4": 76786,
+                "step-5": 80235
+            }
+        ]
+    },
+    "OM-04": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 75468,
+                "step-2": 78857,
+                "step-3": 82170,
+                "step-4": 85532
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 76072,
+                "step-2": 79488,
+                "step-3": 82827,
+                "step-4": 86216
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 77593,
+                "step-2": 81078,
+                "step-3": 84484,
+                "step-4": 87940
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 77748,
+                "step-2": 81240,
+                "step-3": 84653,
+                "step-4": 88116
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 79303,
+                "step-2": 82865,
+                "step-3": 86346,
+                "step-4": 89878
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 80493,
+                "step-2": 84108,
+                "step-3": 87641,
+                "step-4": 91226
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 81700,
+                "step-2": 85370,
+                "step-3": 88956,
+                "step-4": 92594
+            }
+        ]
+    },
+    "OM-05": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 85427,
+                "step-2": 89207,
+                "step-3": 92973,
+                "step-4": 96753
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 86110,
+                "step-2": 89921,
+                "step-3": 93717,
+                "step-4": 97527
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 87832,
+                "step-2": 91719,
+                "step-3": 95591,
+                "step-4": 99478
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 88008,
+                "step-2": 91902,
+                "step-3": 95782,
+                "step-4": 99677
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 89768,
+                "step-2": 93740,
+                "step-3": 97698,
+                "step-4": 101671
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 91115,
+                "step-2": 95146,
+                "step-3": 99163,
+                "step-4": 103196
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 92482,
+                "step-2": 96573,
+                "step-3": 100650,
+                "step-4": 104744
+            }
+        ]
+    },
+    "PE-01": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 52463,
+                "step-2": 54749,
+                "step-3": 57183,
+                "step-4": 59739,
+                "step-5": 62427,
+                "step-6": 65261
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 52883,
+                "step-2": 55187,
+                "step-3": 57640,
+                "step-4": 60217,
+                "step-5": 62926,
+                "step-6": 65783
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 53941,
+                "step-2": 56291,
+                "step-3": 58793,
+                "step-4": 61421,
+                "step-5": 64185,
+                "step-6": 67099
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 54049,
+                "step-2": 56404,
+                "step-3": 58911,
+                "step-4": 61544,
+                "step-5": 64313,
+                "step-6": 67233
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 55130,
+                "step-2": 57532,
+                "step-3": 60089,
+                "step-4": 62775,
+                "step-5": 65599,
+                "step-6": 68578
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 55957,
+                "step-2": 58395,
+                "step-3": 60990,
+                "step-4": 63717,
+                "step-5": 66583,
+                "step-6": 69607
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 56796,
+                "step-2": 59271,
+                "step-3": 61905,
+                "step-4": 64673,
+                "step-5": 67582,
+                "step-6": 70651
+            }
+        ]
+    },
+    "PE-02": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 66178,
+                "step-2": 68507,
+                "step-3": 70932,
+                "step-4": 73453
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 66707,
+                "step-2": 69055,
+                "step-3": 71499,
+                "step-4": 74041
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 68041,
+                "step-2": 70436,
+                "step-3": 72929,
+                "step-4": 75522
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 68177,
+                "step-2": 70577,
+                "step-3": 73075,
+                "step-4": 75673
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 69541,
+                "step-2": 71989,
+                "step-3": 74537,
+                "step-4": 77186
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 70584,
+                "step-2": 73069,
+                "step-3": 75655,
+                "step-4": 78344
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 71643,
+                "step-2": 74165,
+                "step-3": 76790,
+                "step-4": 79519
+            }
+        ]
+    },
+    "PE-03": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 74207,
+                "step-2": 76860,
+                "step-3": 79617,
+                "step-4": 82482
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 74801,
+                "step-2": 77475,
+                "step-3": 80254,
+                "step-4": 83142
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 76297,
+                "step-2": 79025,
+                "step-3": 81859,
+                "step-4": 84805
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 76450,
+                "step-2": 79183,
+                "step-3": 82023,
+                "step-4": 84975
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 77979,
+                "step-2": 80767,
+                "step-3": 83663,
+                "step-4": 86675
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 79149,
+                "step-2": 81979,
+                "step-3": 84918,
+                "step-4": 87975
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 80336,
+                "step-2": 83209,
+                "step-3": 86192,
+                "step-4": 89295
+            }
+        ]
+    },
+    "PE-04": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 82504,
+                "step-2": 85385,
+                "step-3": 88484,
+                "step-4": 91703
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 83164,
+                "step-2": 86068,
+                "step-3": 89192,
+                "step-4": 92437
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 84827,
+                "step-2": 87789,
+                "step-3": 90976,
+                "step-4": 94286
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 84997,
+                "step-2": 87965,
+                "step-3": 91158,
+                "step-4": 94475
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 86697,
+                "step-2": 89724,
+                "step-3": 92981,
+                "step-4": 96365
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 87997,
+                "step-2": 91070,
+                "step-3": 94376,
+                "step-4": 97810
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 89317,
+                "step-2": 92436,
+                "step-3": 95792,
+                "step-4": 99277
+            }
+        ]
+    },
+    "PE-05": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 92383,
+                "step-2": 95766,
+                "step-3": 99280,
+                "step-4": 102935
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 93122,
+                "step-2": 96532,
+                "step-3": 100074,
+                "step-4": 103758
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 94984,
+                "step-2": 98463,
+                "step-3": 102075,
+                "step-4": 105833
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 95174,
+                "step-2": 98660,
+                "step-3": 102279,
+                "step-4": 106045
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 97077,
+                "step-2": 100633,
+                "step-3": 104325,
+                "step-4": 108166
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 98533,
+                "step-2": 102142,
+                "step-3": 105890,
+                "step-4": 109788
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 100011,
+                "step-2": 103674,
+                "step-3": 107478,
+                "step-4": 111435
+            }
+        ]
+    },
+    "PE-06": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "October 1, 2017",
+                "step-1": 114174
+            },
+            {
+                "effective-date": "October 1, 2018 - wage adjustment*",
+                "step-1": 115087
+            },
+            {
+                "effective-date": "October 1, 2018 *",
+                "step-1": 117389
+            },
+            {
+                "effective-date": "October 1, 2019 - wage adjustment*",
+                "step-1": 117624
+            },
+            {
+                "effective-date": "October 1, 2019 *",
+                "step-1": 119976
+            },
+            {
+                "effective-date": "October 1, 2020",
+                "step-1": 121776
+            },
+            {
+                "effective-date": "October 1, 2021",
+                "step-1": 123603
+            }
+        ]
+    },
+
+  "PO-TCO-01": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "Prior to January 1, 2015",
+        "step-1": 50405,
+        "step-2": 52429,
+        "step-3": 54519,
+        "step-4": 56703,
+        "step-5": 58970
+      },
+      {
+        "effective-date": "January 1, 2015",
+        "step-1": 51035,
+        "step-2": 53084,
+        "step-3": 55200,
+        "step-4": 57412,
+        "step-5": 59707
+      },
+      {
+        "effective-date": "January 1, 2016",
+        "step-1": 51673,
+        "step-2": 53748,
+        "step-3": 55890,
+        "step-4": 58130,
+        "step-5": 60453
+      }
+    ]
+  },
+  "PO-TCO-02": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "Prior to January 1, 2015",
+        "step-1": 55442,
+        "step-2": 57663,
+        "step-3": 59976,
+        "step-4": 62372,
+        "step-5": 64864
+      },
+      {
+        "effective-date": "January 1, 2015",
+        "step-1": 56135,
+        "step-2": 58384,
+        "step-3": 60726,
+        "step-4": 63152,
+        "step-5": 65675
+      },
+      {
+        "effective-date": "January 1, 2016",
+        "step-1": 56837,
+        "step-2": 59114,
+        "step-3": 61485,
+        "step-4": 63941,
+        "step-5": 66496
+      }
+    ]
+  },
+  "PO-TCO-03": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "Prior to January 1, 2015",
+        "step-1": 60440,
+        "step-2": 62857,
+        "step-3": 65375,
+        "step-4": 67982,
+        "step-5": 70702
+      },
+      {
+        "effective-date": "January 1, 2015",
+        "step-1": 61196,
+        "step-2": 63643,
+        "step-3": 66192,
+        "step-4": 68832,
+        "step-5": 71586
+      },
+      {
+        "effective-date": "January 1, 2016",
+        "step-1": 61961,
+        "step-2": 64439,
+        "step-3": 67019,
+        "step-4": 69692,
+        "step-5": 72481
+      }
+    ]
+  },
+  "PO-TCO-04": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "Prior to January 1, 2015",
+        "step-1": 65877,
+        "step-2": 68508,
+        "step-3": 71254,
+        "step-4": 74105,
+        "step-5": 77066
+      },
+      {
+        "effective-date": "January 1, 2015",
+        "step-1": 66700,
+        "step-2": 69364,
+        "step-3": 72145,
+        "step-4": 75031,
+        "step-5": 78029
+      },
+      {
+        "effective-date": "January 1, 2016",
+        "step-1": 67534,
+        "step-2": 70231,
+        "step-3": 73047,
+        "step-4": 75969,
+        "step-5": 79004
+      }
+    ]
+  },
+
+  "PO-IMA-01": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "Prior to January 1, 2015",
+        "step-1": 46606,
+        "step-2": 48470,
+        "step-3": 50409,
+        "step-4": 52423,
+        "step-5": 54521,
+        "step-6": 56700,
+        "step-7": 58969
+      },
+      {
+        "effective-date": "January 1, 2015",
+        "step-1": 47189,
+        "step-2": 49076,
+        "step-3": 51039,
+        "step-4": 53078,
+        "step-5": 55203,
+        "step-6": 57409,
+        "step-7": 59706
+      },
+      {
+        "effective-date": "January 1, 2016",
+        "step-1": 47779,
+        "step-2": 49689,
+        "step-3": 51677,
+        "step-4": 53741,
+        "step-5": 55893,
+        "step-6": 58127,
+        "step-7": 60452
+      }
+    ]
+  },
+  "PO-IMA-02": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "Prior to January 1, 2015",
+        "step-1": 51258,
+        "step-2": 53310,
+        "step-3": 55446,
+        "step-4": 57663,
+        "step-5": 59971,
+        "step-6": 62370,
+        "step-7": 64864
+      },
+      {
+        "effective-date": "January 1, 2015",
+        "step-1": 51899,
+        "step-2": 53976,
+        "step-3": 56139,
+        "step-4": 58384,
+        "step-5": 60721,
+        "step-6": 63150,
+        "step-7": 65675
+      },
+      {
+        "effective-date": "January 1, 2016",
+        "step-1": 52548,
+        "step-2": 54651,
+        "step-3": 56841,
+        "step-4": 59114,
+        "step-5": 61480,
+        "step-6": 63939,
+        "step-7": 66496
+      }
+    ]
+  },
+  "PO-IMA-03": {
+    "annual-rates-of-pay": [
+      {
+        "effective-date": "Prior to January 1, 2015",
+        "step-1": 58113,
+        "step-2": 60439,
+        "step-3": 62854,
+        "step-4": 65371,
+        "step-5": 67984,
+        "step-6": 70704
+      },
+      {
+        "effective-date": "January 1, 2015",
+        "step-1": 58839,
+        "step-2": 61194,
+        "step-3": 63640,
+        "step-4": 66188,
+        "step-5": 68834,
+        "step-6": 71588
+      },
+      {
+        "effective-date": "January 1, 2016",
+        "step-1": 59574,
+        "step-2": 61959,
+        "step-3": 64436,
+        "step-4": 67015,
+        "step-5": 69694,
+        "step-6": 72483
+      }
+    ]
+  }
 }
