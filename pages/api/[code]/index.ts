@@ -9,7 +9,7 @@ type JsonData = {
 function findAllInKeys(data: JsonData, searchStr: string): JsonData {
   let matches: JsonData = {};
   for (let key in data) {
-    if (key.includes(searchStr)) {
+    if (key.startsWith(searchStr)) {
       matches[key] = data[key];
     }
   }
@@ -54,7 +54,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     if (Object.keys(results).length > 0) {
       res.status(200).json(results);
     } else {
-      res.status(404).json({ error: 'Subset ' + desiredSubset + ' not found in any keys' });
+      res.status(404).json({ error: 'Subset ' + desiredSubset + ' not found in any keys. A common error is not including a leading zero in the classification (eg: AS-01).' });
     }
 
   } catch (error) {
