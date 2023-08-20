@@ -7,7 +7,7 @@ export default function Home() {
       <div className="max-w-3xl mx-auto">
         <h1 className="text-3xl font-bold mb-4">Public Servant Salary Data API</h1>
         <p className="mb-6">
-          This API provides access to public servant salary data for various classifications and levels.
+          This API provides access to publicly accessible salary information based on classifications and levels.
           The information is sourced from{' '}
           <a
             href="https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp"
