@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -90,28 +91,86 @@ export default function Home() {
         <section className="mb-8">
           <h2 className="text-xl font-semibold mb-2">Current Classifications Available</h2>
           <ul>
-            <li>AS</li>
-            <li>AU</li>
-            <li>CM</li>
-            <li>CR</li>
-            <li>CS</li>
-            <li>DA-CON</li>
-            <li>DA-PRO</li>
-            <li>EC</li>
-            <li>IS</li>
-            <li>OE-BEO</li>
-            <li>OE-CEO</li>
-            <li>OE-DEO</li>
-            <li>OE-MEO</li>
-            <li>OE-MSE</li>
-            <li>PM</li>
-            <li>ST-COR</li>
-            <li>ST-OCE</li>
-            <li>ST-SCY</li>
-            <li>ST-STN</li>
-            <li>ST-TYP</li>
-            <li>WP</li>
+            <li><Link href="/api/AC">AC</Link></li>
+            <li><Link href="/api/AG">AG</Link></li>
+            <li><Link href="/api/AI">AI</Link></li>
+            <li><Link href="/api/AR">AR</Link></li>
+            <li><Link href="/api/AS">AS</Link></li>
+            <li><Link href="/api/AU">AU</Link></li>
+            <li><Link href="/api/BI">BI</Link></li>
+            <li><Link href="/api/CAI">CAI</Link></li>
+            <li><Link href="/api/CH">CH</Link></li>
+            <li><Link href="/api/CM">CM</Link></li>
+            <li><Link href="/api/CO">CO</Link></li>
+            <li><Link href="/api/CR">CR</Link></li>
+            <li><Link href="/api/CS">CS</Link></li>
+            <li><Link href="/api/CX">CX</Link></li>
+            <li><Link href="/api/DA-CON">DA-CON</Link></li>
+            <li><Link href="/api/DA-PRO">DA-PRO</Link></li>
+            <li><Link href="/api/DD">DD</Link></li>
+            <li><Link href="/api/DE">DE</Link></li>
+            <li><Link href="/api/DS">DS</Link></li>
+            <li><Link href="/api/EC">EC</Link></li>
+            <li><Link href="/api/EDS">EDS</Link></li>
+            <li><Link href="/api/EG">EG</Link></li>
+            <li><Link href="/api/ETP">ETP</Link></li>
+            <li><Link href="/api/EX">EX</Link></li>
+            <li><Link href="/api/FB">FB</Link></li>
+            <li><Link href="/api/FI">FI</Link></li>
+            <li><Link href="/api/FO">FO</Link></li>
+            <li><Link href="/api/FR">FR</Link></li>
+            <li><Link href="/api/FS">FS</Link></li>
+            <li><Link href="/api/GT">GT</Link></li>
+            <li><Link href="/api/HPS">HPS</Link></li>
+            <li><Link href="/api/HR">HR</Link></li>
+            <li><Link href="/api/IS">IS</Link></li>
+            <li><Link href="/api/LI">LI</Link></li>
+            <li><Link href="/api/LS">LS</Link></li>
+            <li><Link href="/api/MA">MA</Link></li>
+            <li><Link href="/api/MD-MOF">MD-MOF</Link></li>
+            <li><Link href="/api/MD-MSP">MD-MSP</Link></li>
+            <li><Link href="/api/MT">MT</Link></li>
+            <li><Link href="/api/ND-ADV">ND-ADV</Link></li>
+            <li><Link href="/api/ND-DIT">ND-DIT</Link></li>
+            <li><Link href="/api/ND-HME">ND-HME</Link></li>
+            <li><Link href="/api/NU-EMA">NU-EMA</Link></li>
+            <li><Link href="/api/OE-BEO">OE-BEO</Link></li>
+            <li><Link href="/api/OE-CEO">OE-CEO</Link></li>
+            <li><Link href="/api/OE-DEO">OE-DEO</Link></li>
+            <li><Link href="/api/OE-MEO">OE-MEO</Link></li>
+            <li><Link href="/api/OE-MSE">OE-MSE</Link></li>
+            <li><Link href="/api/OM">OM</Link></li>
+            <li><Link href="/api/PC">PC</Link></li>
+            <li><Link href="/api/PE">PE</Link></li>
+            <li><Link href="/api/PG">PG</Link></li>
+            <li><Link href="/api/PH">PH</Link></li>
+            <li><Link href="/api/PI">PI</Link></li>
+            <li><Link href="/api/PM">PM</Link></li>
+            <li><Link href="/api/PO-IMA">PO-IMA</Link></li>
+            <li><Link href="/api/PO-TCO">PO-TCO</Link></li>
+            <li><Link href="/api/PRS">PRS</Link></li>
+            <li><Link href="/api/PS">PS</Link></li>
+            <li><Link href="/api/PY">PY</Link></li>
+            <li><Link href="/api/RO">RO</Link></li>
+            <li><Link href="/api/SE-REM">SE-REM</Link></li>
+            <li><Link href="/api/SE-RES">SE-RES</Link></li>
+            <li><Link href="/api/SG-PAT">SG-PAT</Link></li>
+            <li><Link href="/api/SG-SRE">SG-SRE</Link></li>
+            <li><Link href="/api/SO-INS">SO-INS</Link></li>
+            <li><Link href="/api/ST-COR">ST-COR</Link></li>
+            <li><Link href="/api/ST-OCE">ST-OCE</Link></li>
+            <li><Link href="/api/ST-SCY">ST-SCY</Link></li>
+            <li><Link href="/api/ST-STN">ST-STN</Link></li>
+            <li><Link href="/api/ST-TYP">ST-TYP</Link></li>
+            <li><Link href="/api/SW-CHA">SW-CHA</Link></li>
+            <li><Link href="/api/SW-SCW">SW-SCW</Link></li>
+            <li><Link href="/api/TI">TI</Link></li>
+            <li><Link href="/api/TR">TR</Link></li>
+            <li><Link href="/api/UT">UT</Link></li>
+            <li><Link href="/api/VM">VM</Link></li>
+            <li><Link href="/api/WP">WP</Link></li>
           </ul>
+
 
         </section>
 
