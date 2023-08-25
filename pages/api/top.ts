@@ -25,44 +25,25 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       return res.status(400).json({ error: 'Failed to parse the JSON file' });
     }
 
-    // Extract the top values for each CS code and aggregate them into an object
+    // Extract the top values for each code and aggregate them into an object
     const result: any = {};
 
-    enum PayScaleCode {
-        CS_01 = 'CS-01',
-        CS_02 = 'CS-02',
-        CS_03 = 'CS-03',
-        CS_04 = 'CS-04',
-        CS_05 = 'CS-05',
-        AS_01 = 'AS-1',
-        AS_02 = 'AS-2',
-        AS_03 = 'AS-3',
-        AS_04 = 'AS-4',
-        AS_05 = 'AS-5',
-        AS_06 = 'AS-6',
-        AS_07 = 'AS-7',
-        AS_08 = 'AS-8',
-    }
-    
-    for (const code of Object.values(PayScaleCode)) {
-        if (jsonData[code]) {
-            const rates = jsonData[code]["annual-rates-of-pay"];
-            if (rates && rates.length > 0) {
-                const lastRate = rates[rates.length - 1];
-                const keys = Object.keys(lastRate);
-                if (keys.length > 0) {
-                    const lastStepKey = keys[keys.length - 1];
-                    if (lastRate[lastStepKey] !== undefined) {
-                        result[code] = lastRate[lastStepKey];
-                    }
-                }
+    // Loop over each key (pay scale code) in jsonData
+    for (const code of Object.keys(jsonData)) {
+      if (jsonData[code]) {
+        const rates = jsonData[code]["annual-rates-of-pay"];
+        if (rates && rates.length > 0) {
+          const lastRate = rates[rates.length - 1];
+          const keys = Object.keys(lastRate);
+          if (keys.length > 0) {
+            const lastStepKey = keys[keys.length - 1];
+            if (lastRate[lastStepKey] !== undefined) {
+              result[code] = lastRate[lastStepKey];
             }
+          }
         }
+      }
     }
-    
-    
-    
-    
 
     res.status(200).json(result);
 
