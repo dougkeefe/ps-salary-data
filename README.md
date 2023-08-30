@@ -1,7 +1,7 @@
 # Public Servant Salary Data API
 
 This API provides access to publicly accessible salary information based on classifications and levels.
- The information is sourced from [TBS-SCT Canada](https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp) and is available through a set of endpoints. More classifications will be added to the API soon.
+ The information is sourced from [TBS-SCT Canada](https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp) and is available through a set of endpoints.
 
 ## Important Disclaimer
 This API and website are not affiliated with, endorsed, or sponsored by the Government of Canada.
