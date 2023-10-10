@@ -17,7 +17,7 @@ export default function Home() {
           >
             TBS-SCT Canada
           </a>{' '}
-          and is available through a set of endpoints. More classifications will be added to the API soon.
+          and is available through a set of endpoints.
         </p>
 
         <section className='mb-8'>
@@ -47,6 +47,10 @@ export default function Home() {
             <li>
               <code>/api/[classification-level]/top</code>: Returns the top salary amount of the specified classification
               and level (e.g., <code>/api/as-4/top</code>).
+            </li>
+            <li>
+              <code>/api/[classification-level]/current</code>: Returns the current salary steps of the specified classification
+              and level (e.g., <code>/api/as-4/current</code>).
             </li>
           </ul>
         </section>
@@ -81,6 +85,9 @@ export default function Home() {
 
   # Get top salary amount for a classification and level
   curl https://ps-salary-data.vercel.app/api/as-4/top
+
+  # Get current salary steps for a classification and level
+  curl https://ps-salary-data.vercel.app/api/as-4/current
 `}
               </code>
             </pre>
