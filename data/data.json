@@ -22044,74 +22044,6 @@
             }
         ]
     },
-    "DD-03": {
-        "annual-rates-of-pay": [
-            {
-                "effective-date": "June 22, 2020",
-                "step-1": 50181,
-                "step-2": 51860,
-                "step-3": 53552,
-                "step-4": 55235,
-                "step-5": 57447
-            },
-            {
-                "effective-date": "June 22, 2021",
-                "step-1": 50934,
-                "step-2": 52638,
-                "step-3": 54355,
-                "step-4": 56064,
-                "step-5": 58309
-            },
-            {
-                "effective-date": "June 22, 2022",
-                "step-1": 52717,
-                "step-2": 54480,
-                "step-3": 56257,
-                "step-4": 58026,
-                "step-5": 60350
-            },
-            {
-                "effective-date": "June 22, 2022 - Wage Adjustment",
-                "step-1": 53376,
-                "step-2": 55161,
-                "step-3": 56960,
-                "step-4": 58751,
-                "step-5": 61104
-            },
-            {
-                "effective-date": "June 22, 2023",
-                "step-1": 54977,
-                "step-2": 56816,
-                "step-3": 58669,
-                "step-4": 60514,
-                "step-5": 62937
-            },
-            {
-                "effective-date": "June 22, 2023 - Pay Line Adjustment",
-                "step-1": 55252,
-                "step-2": 57100,
-                "step-3": 58962,
-                "step-4": 60817,
-                "step-5": 63252
-            },
-            {
-                "effective-date": "June 22, 2024",
-                "step-1": 56357,
-                "step-2": 58242,
-                "step-3": 60141,
-                "step-4": 62033,
-                "step-5": 64517
-            },
-            {
-                "effective-date": "June 22, 2024 - Wage Adjustment",
-                "step-1": 56498,
-                "step-2": 58388,
-                "step-3": 60291,
-                "step-4": 62188,
-                "step-5": 64678
-            }
-        ]
-    },
     "DD-04": {
         "annual-rates-of-pay": [
             {
@@ -27286,217 +27218,215 @@
             }
         ]
     },
-
-  "PO-TCO-01": {
-    "annual-rates-of-pay": [
-      {
-        "effective-date": "Prior to January 1, 2015",
-        "step-1": 50405,
-        "step-2": 52429,
-        "step-3": 54519,
-        "step-4": 56703,
-        "step-5": 58970
-      },
-      {
-        "effective-date": "January 1, 2015",
-        "step-1": 51035,
-        "step-2": 53084,
-        "step-3": 55200,
-        "step-4": 57412,
-        "step-5": 59707
-      },
-      {
-        "effective-date": "January 1, 2016",
-        "step-1": 51673,
-        "step-2": 53748,
-        "step-3": 55890,
-        "step-4": 58130,
-        "step-5": 60453
-      }
-    ]
-  },
-  "PO-TCO-02": {
-    "annual-rates-of-pay": [
-      {
-        "effective-date": "Prior to January 1, 2015",
-        "step-1": 55442,
-        "step-2": 57663,
-        "step-3": 59976,
-        "step-4": 62372,
-        "step-5": 64864
-      },
-      {
-        "effective-date": "January 1, 2015",
-        "step-1": 56135,
-        "step-2": 58384,
-        "step-3": 60726,
-        "step-4": 63152,
-        "step-5": 65675
-      },
-      {
-        "effective-date": "January 1, 2016",
-        "step-1": 56837,
-        "step-2": 59114,
-        "step-3": 61485,
-        "step-4": 63941,
-        "step-5": 66496
-      }
-    ]
-  },
-  "PO-TCO-03": {
-    "annual-rates-of-pay": [
-      {
-        "effective-date": "Prior to January 1, 2015",
-        "step-1": 60440,
-        "step-2": 62857,
-        "step-3": 65375,
-        "step-4": 67982,
-        "step-5": 70702
-      },
-      {
-        "effective-date": "January 1, 2015",
-        "step-1": 61196,
-        "step-2": 63643,
-        "step-3": 66192,
-        "step-4": 68832,
-        "step-5": 71586
-      },
-      {
-        "effective-date": "January 1, 2016",
-        "step-1": 61961,
-        "step-2": 64439,
-        "step-3": 67019,
-        "step-4": 69692,
-        "step-5": 72481
-      }
-    ]
-  },
-  "PO-TCO-04": {
-    "annual-rates-of-pay": [
-      {
-        "effective-date": "Prior to January 1, 2015",
-        "step-1": 65877,
-        "step-2": 68508,
-        "step-3": 71254,
-        "step-4": 74105,
-        "step-5": 77066
-      },
-      {
-        "effective-date": "January 1, 2015",
-        "step-1": 66700,
-        "step-2": 69364,
-        "step-3": 72145,
-        "step-4": 75031,
-        "step-5": 78029
-      },
-      {
-        "effective-date": "January 1, 2016",
-        "step-1": 67534,
-        "step-2": 70231,
-        "step-3": 73047,
-        "step-4": 75969,
-        "step-5": 79004
-      }
-    ]
-  },
-
-  "PO-IMA-01": {
-    "annual-rates-of-pay": [
-      {
-        "effective-date": "Prior to January 1, 2015",
-        "step-1": 46606,
-        "step-2": 48470,
-        "step-3": 50409,
-        "step-4": 52423,
-        "step-5": 54521,
-        "step-6": 56700,
-        "step-7": 58969
-      },
-      {
-        "effective-date": "January 1, 2015",
-        "step-1": 47189,
-        "step-2": 49076,
-        "step-3": 51039,
-        "step-4": 53078,
-        "step-5": 55203,
-        "step-6": 57409,
-        "step-7": 59706
-      },
-      {
-        "effective-date": "January 1, 2016",
-        "step-1": 47779,
-        "step-2": 49689,
-        "step-3": 51677,
-        "step-4": 53741,
-        "step-5": 55893,
-        "step-6": 58127,
-        "step-7": 60452
-      }
-    ]
-  },
-  "PO-IMA-02": {
-    "annual-rates-of-pay": [
-      {
-        "effective-date": "Prior to January 1, 2015",
-        "step-1": 51258,
-        "step-2": 53310,
-        "step-3": 55446,
-        "step-4": 57663,
-        "step-5": 59971,
-        "step-6": 62370,
-        "step-7": 64864
-      },
-      {
-        "effective-date": "January 1, 2015",
-        "step-1": 51899,
-        "step-2": 53976,
-        "step-3": 56139,
-        "step-4": 58384,
-        "step-5": 60721,
-        "step-6": 63150,
-        "step-7": 65675
-      },
-      {
-        "effective-date": "January 1, 2016",
-        "step-1": 52548,
-        "step-2": 54651,
-        "step-3": 56841,
-        "step-4": 59114,
-        "step-5": 61480,
-        "step-6": 63939,
-        "step-7": 66496
-      }
-    ]
-  },
-  "PO-IMA-03": {
-    "annual-rates-of-pay": [
-      {
-        "effective-date": "Prior to January 1, 2015",
-        "step-1": 58113,
-        "step-2": 60439,
-        "step-3": 62854,
-        "step-4": 65371,
-        "step-5": 67984,
-        "step-6": 70704
-      },
-      {
-        "effective-date": "January 1, 2015",
-        "step-1": 58839,
-        "step-2": 61194,
-        "step-3": 63640,
-        "step-4": 66188,
-        "step-5": 68834,
-        "step-6": 71588
-      },
-      {
-        "effective-date": "January 1, 2016",
-        "step-1": 59574,
-        "step-2": 61959,
-        "step-3": 64436,
-        "step-4": 67015,
-        "step-5": 69694,
-        "step-6": 72483
-      }
-    ]
-  }
+    "PO-TCO-01": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "Prior to January 1, 2015",
+                "step-1": 50405,
+                "step-2": 52429,
+                "step-3": 54519,
+                "step-4": 56703,
+                "step-5": 58970
+            },
+            {
+                "effective-date": "January 1, 2015",
+                "step-1": 51035,
+                "step-2": 53084,
+                "step-3": 55200,
+                "step-4": 57412,
+                "step-5": 59707
+            },
+            {
+                "effective-date": "January 1, 2016",
+                "step-1": 51673,
+                "step-2": 53748,
+                "step-3": 55890,
+                "step-4": 58130,
+                "step-5": 60453
+            }
+        ]
+    },
+    "PO-TCO-02": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "Prior to January 1, 2015",
+                "step-1": 55442,
+                "step-2": 57663,
+                "step-3": 59976,
+                "step-4": 62372,
+                "step-5": 64864
+            },
+            {
+                "effective-date": "January 1, 2015",
+                "step-1": 56135,
+                "step-2": 58384,
+                "step-3": 60726,
+                "step-4": 63152,
+                "step-5": 65675
+            },
+            {
+                "effective-date": "January 1, 2016",
+                "step-1": 56837,
+                "step-2": 59114,
+                "step-3": 61485,
+                "step-4": 63941,
+                "step-5": 66496
+            }
+        ]
+    },
+    "PO-TCO-03": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "Prior to January 1, 2015",
+                "step-1": 60440,
+                "step-2": 62857,
+                "step-3": 65375,
+                "step-4": 67982,
+                "step-5": 70702
+            },
+            {
+                "effective-date": "January 1, 2015",
+                "step-1": 61196,
+                "step-2": 63643,
+                "step-3": 66192,
+                "step-4": 68832,
+                "step-5": 71586
+            },
+            {
+                "effective-date": "January 1, 2016",
+                "step-1": 61961,
+                "step-2": 64439,
+                "step-3": 67019,
+                "step-4": 69692,
+                "step-5": 72481
+            }
+        ]
+    },
+    "PO-TCO-04": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "Prior to January 1, 2015",
+                "step-1": 65877,
+                "step-2": 68508,
+                "step-3": 71254,
+                "step-4": 74105,
+                "step-5": 77066
+            },
+            {
+                "effective-date": "January 1, 2015",
+                "step-1": 66700,
+                "step-2": 69364,
+                "step-3": 72145,
+                "step-4": 75031,
+                "step-5": 78029
+            },
+            {
+                "effective-date": "January 1, 2016",
+                "step-1": 67534,
+                "step-2": 70231,
+                "step-3": 73047,
+                "step-4": 75969,
+                "step-5": 79004
+            }
+        ]
+    },
+    "PO-IMA-01": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "Prior to January 1, 2015",
+                "step-1": 46606,
+                "step-2": 48470,
+                "step-3": 50409,
+                "step-4": 52423,
+                "step-5": 54521,
+                "step-6": 56700,
+                "step-7": 58969
+            },
+            {
+                "effective-date": "January 1, 2015",
+                "step-1": 47189,
+                "step-2": 49076,
+                "step-3": 51039,
+                "step-4": 53078,
+                "step-5": 55203,
+                "step-6": 57409,
+                "step-7": 59706
+            },
+            {
+                "effective-date": "January 1, 2016",
+                "step-1": 47779,
+                "step-2": 49689,
+                "step-3": 51677,
+                "step-4": 53741,
+                "step-5": 55893,
+                "step-6": 58127,
+                "step-7": 60452
+            }
+        ]
+    },
+    "PO-IMA-02": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "Prior to January 1, 2015",
+                "step-1": 51258,
+                "step-2": 53310,
+                "step-3": 55446,
+                "step-4": 57663,
+                "step-5": 59971,
+                "step-6": 62370,
+                "step-7": 64864
+            },
+            {
+                "effective-date": "January 1, 2015",
+                "step-1": 51899,
+                "step-2": 53976,
+                "step-3": 56139,
+                "step-4": 58384,
+                "step-5": 60721,
+                "step-6": 63150,
+                "step-7": 65675
+            },
+            {
+                "effective-date": "January 1, 2016",
+                "step-1": 52548,
+                "step-2": 54651,
+                "step-3": 56841,
+                "step-4": 59114,
+                "step-5": 61480,
+                "step-6": 63939,
+                "step-7": 66496
+            }
+        ]
+    },
+    "PO-IMA-03": {
+        "annual-rates-of-pay": [
+            {
+                "effective-date": "Prior to January 1, 2015",
+                "step-1": 58113,
+                "step-2": 60439,
+                "step-3": 62854,
+                "step-4": 65371,
+                "step-5": 67984,
+                "step-6": 70704
+            },
+            {
+                "effective-date": "January 1, 2015",
+                "step-1": 58839,
+                "step-2": 61194,
+                "step-3": 63640,
+                "step-4": 66188,
+                "step-5": 68834,
+                "step-6": 71588
+            },
+            {
+                "effective-date": "January 1, 2016",
+                "step-1": 59574,
+                "step-2": 61959,
+                "step-3": 64436,
+                "step-4": 67015,
+                "step-5": 69694,
+                "step-6": 72483
+            }
+        ]
+    }
 }
