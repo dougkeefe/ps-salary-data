@@ -98,6 +98,7 @@ To use the API, send HTTP requests to the specified endpoints using your preferr
 - HPS
 - HR
 - IS
+- IT
 - LI
 - LS
 - MA

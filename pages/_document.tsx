@@ -4,9 +4,7 @@ import { Analytics } from '@vercel/analytics/react';
 export default function Document() {
   return (
     <Html lang="en">
-      <Head>
-        <title>Public Servant Salary API</title>
-      </Head>
+      <Head />
       <body>
         <Main />
         <NextScript />
