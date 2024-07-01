@@ -131,6 +131,7 @@ export default function Home() {
             <li><Link href="/api/HPS">HPS</Link></li>
             <li><Link href="/api/HR">HR</Link></li>
             <li><Link href="/api/IS">IS</Link></li>
+            <li><Link href="/api/IT">IT</Link></li>
             <li><Link href="/api/LI">LI</Link></li>
             <li><Link href="/api/LS">LS</Link></li>
             <li><Link href="/api/MA">MA</Link></li>
